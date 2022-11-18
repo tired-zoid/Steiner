@@ -1,0 +1,9 @@
+C:\Users\rahim\source\repos\Steiner\Steiner\bin\Debug\Steiner.exe.config
+C:\Users\rahim\source\repos\Steiner\Steiner\bin\Debug\Steiner.exe
+C:\Users\rahim\source\repos\Steiner\Steiner\bin\Debug\Steiner.pdb
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.csprojAssemblyReference.cache
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.Form1.resources
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.Properties.Resources.resources
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.csproj.GenerateResource.cache
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.exe
+C:\Users\rahim\source\repos\Steiner\Steiner\obj\Debug\Steiner.pdb
